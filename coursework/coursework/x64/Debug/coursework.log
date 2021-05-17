@@ -1,0 +1,13 @@
+﻿  coursework.cpp
+C:\Users\romas\OneDrive\Desktop\course_img\coursework\coursework\coursework.cpp(115,28): warning C4244: *=: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\romas\OneDrive\Desktop\course_img\coursework\coursework\coursework.cpp(116,28): warning C4244: *=: преобразование "double" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\romas\OneDrive\Desktop\course_img\coursework\coursework\coursework.cpp(221,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  coursework.vcxproj -> C:\Users\romas\OneDrive\Desktop\course_img\coursework\x64\Debug\coursework.exe
